@@ -4,7 +4,7 @@ Scripts used for the analysis of the paper entitled "XXXXX" currently under revi
 
 Folders:
 
-- gpt_data: Google colab scripts to generate surprisal and saliency data from GPT2 outputs
+- gpt_derived_data: Google colab scripts to generate surprisal and saliency data from GPT2 outputs
 - preprocessing: scripts to generate fMRI predictors from the gpt_data
 - saliency_stats_analysis: script fro the statistical analysis on fMRI data with saliency scores
 - surprisal_stats_analysis: script fro the statistical analysis on fMRI data with surprisal
