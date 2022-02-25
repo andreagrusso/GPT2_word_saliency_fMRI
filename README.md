@@ -1,2 +1,1 @@
-# gpt2_word_importance_fMRI
- 
+# GPT2 word saliency in fMRI 
