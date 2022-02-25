@@ -517,7 +517,7 @@ for n,measure in enumerate(all_measures):
 
     
     
-scipy.io.savemat(os.path.join(data_dir,'predictors',time_window,'sliding_window_design_matrices.mat'), 
+scipy.io.savemat(os.path.join(data_dir,'predictors',time_window,'saliency_design_matrices.mat'), 
                   mdict={labels[0]: downsampled_output[0],
                          labels[1]: downsampled_output[1],
                          labels[2]: downsampled_output[2],
